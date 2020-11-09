@@ -12,5 +12,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Using Ruby 2.4.1 (Current LR Skeleton Version)
 
 Next lesson to do:
-https://learnrubythehardway.org/book/ex7.html
+https://learnrubythehardway.org/book/ex8.html
 
